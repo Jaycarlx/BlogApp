@@ -102,3 +102,52 @@ p{
 button{
   cursor: pointer;
 }
+
+.blog-details{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
+  margin: 40px auto;
+}
+
+.blog-details h2{
+  font-size: 1.5rem;
+  color: rgb(250, 53, 86);
+  margin-bottom:.5rem;
+}
+.blog-details p{
+  font-weight: 700;
+}
+
+.blog-details button{
+  background-color: #f1356d;
+  color: #fff;
+  border: 0;
+  padding:.5rem;
+  border-radius: .5rem;
+  cursor: pointer;
+}
+
+.create{
+  max-width: 600px;
+  margin: 40px auto;
+}
+
+.create form{
+  display: flex;
+  flex-direction: column;
+}
+.create form label{
+  padding: 8px 2rem;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+.create h2{
+  color: #f1356d;
+} 
+
+.create button{
+  font-size: 1.2rem;
+  margin: 1rem;
+}
