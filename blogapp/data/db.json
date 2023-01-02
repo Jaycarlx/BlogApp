@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "My First Blog",
-      "body": "First blog is  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem temporibus cupiditate quam, sequi quibusdam totam sed doloremque a necessitatibus deserunt, autem, beatae impedit nisi facilis nostrum expedita quas distinctio sapiente praesentium nulla quis possimus nobis repellat rem. Eos vero quod officiis ullam reprehenderit itaque distinctio minus ut neque dicta rerum, autem unde quibusdam cum? Molestias nostrum repellendus numquam provident illo quia fugit modi harum nemo ex, sit ipsa ut molestiae maiores quidem consequatur sed necessitatibus laborum ipsam quos natus voluptates dolorum! Dolor hic cumque est. Exercitationem totam nostrum asperiores tempora, voluptates rerum quos magni quas. Voluptas fuga nam quibusdam harum.",
-      "author": "Jay Carlos",
-      "id": 1
-    },
-    {
       "title": "My Second Blog",
       "body": "Second blog is  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem temporibus cupiditate quam, sequi quibusdam totam sed doloremque a necessitatibus deserunt, autem, beatae impedit nisi facilis nostrum expedita quas distinctio sapiente praesentium nulla quis possimus nobis repellat rem. Eos vero quod officiis ullam reprehenderit itaque distinctio minus ut neque dicta rerum, autem unde quibusdam cum? Molestias nostrum repellendus numquam provident illo quia fugit modi harum nemo ex, sit ipsa ut molestiae maiores quidem consequatur sed necessitatibus laborum ipsam quos natus voluptates dolorum! Dolor hic cumque est. Exercitationem totam nostrum asperiores tempora, voluptates rerum quos magni quas. Voluptas fuga nam quibusdam harum.",
       "author": "Jay Carlos",

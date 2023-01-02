@@ -19,5 +19,4 @@ const Bloglist = ({ blogs, title}) => {
     </div>
   )
 }
-
 export default Bloglist
